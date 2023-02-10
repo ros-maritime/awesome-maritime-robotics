@@ -5,13 +5,14 @@ Repo for mapping all the open source robotics software, including the ones from 
 - [ping360_sonar](https://github.com/CentraleNantesRobotics/ping360_sonar)
 
 ## Simulation examples
-- [SUAVE: An Exemplar for Self-Adaptive Underwater Vehicles](https://github.com/kas-lab/suave/blob/main/README.md)
+- [SUAVE](https://github.com/kas-lab/suave/blob/main/README.md) An Exemplar for Self-Adaptive Underwater Vehicles
 - [REMARO Summer School Delft 2022 - Underwater robotics hackathon](https://github.com/remaro-network/tudelft_hackathon)
-- [Bluerov2 gazebosim model](https://github.com/clydemcqueen/bluerov2_ignition)
-- [LRAUV gazebosim example](https://github.com/osrf/lrauv)
-- [VRX Boat Simulation](https://github.com/osrf/vrx)
-- [MBZIRC Boat and aerial drone simulation](https://github.com/osrf/mbzirc)
+- [Bluerov2](https://github.com/clydemcqueen/bluerov2_ignition) gazebosim model.
+- [LRAUV](https://github.com/osrf/lrauv) gazebosim example. Contains DVL.
+- [VRX Boat Simulation](https://github.com/osrf/vrx) gazebosim example.
+- [MBZIRC](https://github.com/osrf/mbzirc) Boat and aerial drone simulation. Contains radar.
 - [Orca4](https://github.com/clydemcqueen/orca4)
+- [Stonefish] is a C++ library combining a physics engine and a lightweight rendering pipeline.
 
 ## Data
 - [REMARO data](https://github.com/remaro-network/remaro_data)
