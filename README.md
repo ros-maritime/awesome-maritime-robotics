@@ -12,7 +12,7 @@ Repo for mapping all the open source robotics software, including the ones from 
 - [VRX Boat Simulation](https://github.com/osrf/vrx) gazebosim example.
 - [MBZIRC](https://github.com/osrf/mbzirc) Boat and aerial drone simulation. Contains radar.
 - [Orca4](https://github.com/clydemcqueen/orca4)
-- [Stonefish] is a C++ library combining a physics engine and a lightweight rendering pipeline.
+- [Stonefish](https://stonefish.readthedocs.io/en/latest/) is a C++ library combining a physics engine and a lightweight rendering pipeline.
 
 ## Data
 - [REMARO data](https://github.com/remaro-network/remaro_data)
