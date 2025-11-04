@@ -1,19 +1,31 @@
 # awesome-maritime-robotics
 Repo for mapping all the open source robotics software, including the ones from this organization
 
+## Projects
+The project category shall contain projects that fit multiple categories at the same time.
+
+- [Blue](https://github.com/Robotic-Decision-Making-Lab/blue) Blue is a ROS 2 pipeline designed to support development, testing, and deployment of underwater vehicles.
+- [Project11](https://github.com/CCOMJHC/project11): A mapping focused open-sourced software framework for Autonomous Surface Vehicles
+
 ## Simulation environments
 ### Gazebo
 - [VRX Boat Simulation](https://github.com/osrf/vrx) gazebosim example.
 - [Bluerov2](https://github.com/clydemcqueen/bluerov2_ignition) gazebosim model.
 - [LRAUV](https://github.com/osrf/lrauv) gazebosim example. Contains DVL.
 - [Orca4](https://github.com/clydemcqueen/orca4)
-- [SUAVE](https://github.com/kas-lab/suave/blob/main/README.md) An Exemplar for Self-Adaptive Underwater Vehicles
+- [SUAVE](https://github.com/kas-lab/suave/blob/main/README.md) An Exemplar for Self-Adaptive Underwater Vehicles.
 - [REMARO Summer School Delft 2022 - Underwater robotics hackathon](https://github.com/remaro-network/tudelft_hackathon)
 - [MBZIRC](https://github.com/osrf/mbzirc) Boat and aerial drone simulation. Contains radar.
+- [Dave](https://github.com/Field-Robotics-Lab/dave) DAVE Aquatic Virtual Environment(DAVE) is a simulation environment to support the rapid testing and evaluation of underwater robotic solutions.
+
+#### Gazebo plugins
+- [asv_wave_sim](https://github.com/srmainwaring/asv_wave_sim) contains plugins that support the simulation of waves and surface vessels in Gazebo.
 
 ### Other
 - [Stonefish](https://stonefish.readthedocs.io/en/latest/) is a C++ library combining a physics engine and a lightweight rendering pipeline.
-- [TurtleBoat](https://github.com/bartboogmans/TurtleBoat) is an interactive node, similar to turtlebot, but then with vessel dynamics
+- [TurtleBoat](https://github.com/bartboogmans/TurtleBoat) is an interactive node, similar to turtlebot, but then with vessel dynamics.
+- [unity-arduboat-sim](https://github.com/chrisdalke/unity-arduboat-sim) Unity simulation of ArduRover boogie board boat.
+- [OceanSim](https://github.com/umfieldrobotics/OceanSim) A GPU-Accelerated Underwater Robot Perception Simulation Framework
 
 ## Control effort allocation / Thruster-managers
 ![pure_thrustallocation drawio (2)](https://github.com/bartboogmans/awesome-maritime-robotics/assets/5917472/82faf41e-1005-4574-a9df-bfa61f00853e)
@@ -52,6 +64,9 @@ Modules that make sure that actuators follow a desired reference. Very vessel sp
 
 ## Drivers
 - [ping360_sonar](https://github.com/CentraleNantesRobotics/ping360_sonar)
+- [sbg ros2 driver](https://github.com/SBG-Systems/sbg_ros2_driver)
 
 ## Open access datasets of marine drone operation
 - [REMARO data](https://github.com/remaro-network/remaro_data)
+- [OpenSonarDatasets](https://github.com/remaro-network/OpenSonarDatasets)
+- [MIMIR-UW](https://github.com/remaro-network/MIMIR-UW) A multipurpose synthetic dataset for underwater navigation and inspection
